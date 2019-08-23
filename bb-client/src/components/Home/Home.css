@@ -1,0 +1,18 @@
+/* Footer Styling */
+.Footer{
+    background-color:#2185d0;
+    position:relative;
+    height: 100px;
+    margin-top:-100px;
+    clear:both;
+  
+  }
+  /* General Home PAge setting */
+  #page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+  #content-wrap {
+    padding-bottom: 2.5rem;    /* Footer height */
+  }
